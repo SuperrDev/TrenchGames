@@ -29,7 +29,7 @@ TrenchGames is a **Solana-based gaming platform** where random games start at un
 - **@superr_1 & @kaippai** – Founder & Lead
 
 ### 🔧 Admins
-- **nikko6.6.6.**  
+- **@nikko6.6.6.**  
 
 ### 🔥 Moderators
 - Lead -> **@oxr69**  
