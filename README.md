@@ -26,19 +26,19 @@ TrenchGames is a **Solana-based gaming platform** where random games start at un
 
 ## 👥 Credits
 ### 🏆 Owners (discord usernames)
-- **[@superr_1 & @kaippai]** – Founder & Lead
+- **@superr_1 & @kaippai** – Founder & Lead
 
 ### 🔧 Admins
-- **[nikko6.6.6.]**  
+- **nikko6.6.6.**  
 
 ### 🔥 Moderators
-- **[@oxr69]**  
-- **[@realconoro]**
-- **[@dyl_.]**
-- **[@raxacori_]**
+- **@oxr69**  
+- **@realconoro**
+- **@dyl_.**
+- **@raxacori_**
 
 ### 💻 Developers (Utility & Platform)
-- **[@superr_1]**  
+- **@superr_1**  
 
 ## 📞 Contact & Support
 For any issues, prize claims, or questions, contact us via our official **[Discord]** or **[Telegram]** channels. 📨
