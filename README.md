@@ -32,7 +32,7 @@ TrenchGames is a **Solana-based gaming platform** where random games start at un
 - **nikko6.6.6.**  
 
 ### 🔥 Moderators
-- **@oxr69**  
+- Lead -> **@oxr69**  
 - **@realconoro**
 - **@dyl_.**
 - **@raxacori_**
